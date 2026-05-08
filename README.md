@@ -12,11 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DaKo1312/DaKo1312/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/DaKo1312/DaKo1312/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">
