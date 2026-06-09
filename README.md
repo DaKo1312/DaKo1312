@@ -4,11 +4,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaKo1312/DaKo1312/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaKo1312/DaKo1312/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaKo1312/DaKo1312/pacman-output/pacman-contribution-graph.svg">
-</picture>
+def bubble-sort(a)
+  n = len(a)
+  for p in range(n - 1):
+    swapped = False
+    for i in range(n - 1 - p):
+      if a[i] > a[i + 1]:
+        a[i], a[i + 1] = a[i + 1], a[i]
+        awapped = True
+    if not swapped:
+      break
 
 ###
 
